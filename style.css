@@ -6,6 +6,18 @@
     font-weight: normal;
     font-style: normal;
 }
+:root {
+    --cor0: #c5ebd6;
+    --cor1: #83e1ad;
+    --cor2: #3ddc84;
+    --cor3: #2fa866;
+    --cor4: #1a5c37;
+    --cor5: #063d1e;
+    --fonte0: Arial, Helvetica, sans-serif;
+    --fonte1: 'Bebas Neue', cursive;
+    --fonte2: 'idroid', sans-serif;
+}
+
 
 #topo {
     font-family: "idroid"; 
@@ -18,5 +30,11 @@ body {
     font-optical-sizing: auto;
     font-weight: normal;
     font-style: normal;
+    margin: auto;
+    min-width: 400px;
+    max-width: 800px;
 }
 
+#menu {
+
+}
